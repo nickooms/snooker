@@ -3,9 +3,11 @@
 	Snooker.Triangle = {
 		create: function (scene) {
 			var row = 0, balls = 5;
+			var redCount = 0;
 			while (balls > 0) {
 				for (var i = 0; i < balls; i++) {
 					var ball = Snooker.Ball.create(new BABYLON.Color3(1, 0, 0), scene);
+					redCount++;
 					ball.position.x = row * (Snooker.Ball.DIAMETER * 0.5) + (i * Snooker.Ball.DIAMETER) - (2 * Snooker.Ball.DIAMETER);
 					ball.position.z = ((row - 5) * Snooker.Ball.DIAMETER) - (Snooker.Cloth.LENGTH / 4);
 				}

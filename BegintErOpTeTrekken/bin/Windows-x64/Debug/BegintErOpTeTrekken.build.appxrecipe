@@ -94,6 +94,9 @@
     <AppxPackagedFile Include="C:\GitHub\snooker\BegintErOpTeTrekken\platforms\windows\www\scripts\winstore-jscompat.js">
       <PackagePath>www\scripts\winstore-jscompat.js</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\snooker\BegintErOpTeTrekken\platforms\windows\www\snooker-table.js">
+      <PackagePath>www\snooker-table.js</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\GitHub\snooker\BegintErOpTeTrekken\platforms\windows\www\css\index.css">
       <PackagePath>www\css\index.css</PackagePath>
     </AppxPackagedFile>

@@ -23,6 +23,7 @@
 				new BABYLON.Vector3(d, h, b + d),
 				new BABYLON.Vector3(d, h, b),
 			30);
+			var dPoints = d.getPoints();
 			var quadraticBezierCurve = BABYLON.Mesh.CreateLines("qbezier", d.getPoints(), scene);
 			quadraticBezierCurve.color = new BABYLON.Color3(1, 1, 1);
 		}
