@@ -1,0 +1,20 @@
+{
+  "name": "nick ooms snooker",
+  "version": "0.0.0",
+  "homepage": "https://github.com/nickooms/snooker",
+  "authors": [
+    "Nick Ooms <oomsni@gmail.com>"
+  ],
+  "description": "snooker",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#1.0.0"
+  }
+}

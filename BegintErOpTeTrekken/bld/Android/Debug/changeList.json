@@ -26,7 +26,6 @@
     "res\\icons\\ios\\icon-60-3x.png",
     "plugins\\cordova-plugin-whitelist\\whitelist.js",
     "plugins\\fetch.json",
-    "config.xml",
     "res\\screens\\wp8\\SplashScreenImage.jpg",
     "res\\screens\\ios\\screen-ipad-landscape-2x.png",
     "res\\screens\\ios\\screen-iphone-568h-2x.png",
@@ -36,6 +35,7 @@
     "res\\screens\\android\\screen-ldpi-landscape.png",
     "res\\icons\\windows\\Wide310x150Logo.scale-240.png",
     "res\\icons\\windows\\Wide310x150Logo.scale-100.png",
+    "www\\python",
     "res\\icons\\ios\\icon-72-2x.png",
     "res\\icons\\ios\\icon-76-2x.png",
     "www\\scripts\\balls.js",
@@ -86,8 +86,11 @@
     "res\\screens\\android\\screen-xhdpi-landscape.png",
     "plugins\\cordova-plugin-whitelist\\src\\ios\\CDVNavigationWhitelistPlugin.m",
     "plugins\\cordova-plugin-whitelist\\README.md",
+    "www\\snooker-table.js",
     "res\\icons\\windows\\Square44x44Logo.scale-240.png",
-    "res\\screens\\android\\screen-mdpi-portrait.png"
+    "res\\screens\\android\\screen-mdpi-portrait.png",
+    "www\\bower.json",
+    "config.xml"
   ],
   "deletedFilesIos": [],
   "addedPluginsIos": [],

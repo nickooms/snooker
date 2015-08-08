@@ -2,6 +2,7 @@
 	"use strict";
 	document.addEventListener('deviceready', onDeviceReady.bind(this), false);
 	function onDeviceReady() {
+		//document.getElementById('drawer-panel').closeDrawer();
 		document.addEventListener('pause', onPause.bind(this), false);
 		document.addEventListener('resume', onResume.bind(this), false);
 		var canvas = document.getElementById('renderCanvas');

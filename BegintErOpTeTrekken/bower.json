@@ -1,5 +1,6 @@
 {
-    "name": "BegintErOpTeTrekken",
-    "dependencies": {
-    }
+	"name": "BegintErOpTeTrekken",
+	"dependencies": {
+		"polymer": "Polymer/polymer#1.0.0"
+	}
 }
